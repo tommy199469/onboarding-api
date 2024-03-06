@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+
+# typeorm config
+ormconfig_prod.*
+ormconfig_uat.*
+
+# .env files
+.env
+.env.prod
+.env.uat
+
+dist/
